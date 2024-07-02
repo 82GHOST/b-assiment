@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+h1{
+    color: rgb(255, 96, 234);
+    text-align:start; 
+    padding-left: 30px; 
+}
+h2{
+    padding-left: 35px;
+    color:rgb(255, 255, 255);
+    font-size: x-large;
+}
+.gp{
+    height: 100vh;
+    padding-top:100px ;
+    background-color: rgb(3, 3, 56);
+}
+.main1{
+    display: flex;
+    justify-content:space-around;
+    
+    color: rgb(255, 255, 255);
+    padding: 50px ;
+    
+}
+.rrr{
+    
+    color: aliceblue;
+
+    
+}
+.main{
+    display:flex ;
+    justify-content: space-around;
+    padding: 10px 50px;
+}
+.kid{
+
+    color: aliceblue;
+    text-align: end;
+
+}
+.vf{
+    
+    color: aliceblue;
+    text-align: end; 
+  
+    
+}
